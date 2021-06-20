@@ -1,1 +1,2 @@
-nam of this is file is wrong
+name of this is file is wrong
+it should be otherFile
